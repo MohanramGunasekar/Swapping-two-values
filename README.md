@@ -30,6 +30,8 @@ vijay_data=tmp
 print("Swapped values are:",surya_data,vijay_data)
 ```
 ## OUTPUT:
+![Screenshot 2024-04-15 133235](https://github.com/MohanramGunasekar/Swapping-two-values/assets/139841812/aff21596-1cc3-481d-a93f-834e164d8569)
+
 ![Screenshot 2024-04-15 133247](https://github.com/MohanramGunasekar/Swapping-two-values/assets/139841812/78b435bc-d718-4b34-aced-36baa6955d9d)
 
 
